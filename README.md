@@ -137,9 +137,3 @@ Everything lives in one file on purpose, which makes it easy to build into a sin
 - **Settings:** `QSettings` (organisation and app name `VideoPlayer`, kept from the old name so existing users keep their settings)
 - **Custom covers:** `VideoPlayerCovers` folder in AppData
 - **Thumbnail cache:** `VeyroPlayerThumbs` folder in the temp directory (safe to delete, rebuilt on demand)
-
----
-
-## License
-
-Add your license here (for example MIT).
